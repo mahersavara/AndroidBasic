@@ -16,7 +16,7 @@ import com.example.samplefeature.ui.theme.AndroidBasicPathTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // log
+        // logamoter
         enableEdgeToEdge()
         setContent {
             AndroidBasicPathTheme {
